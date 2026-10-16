@@ -46,7 +46,7 @@ Obviously I am not omnicient :-) Help me fill these repository with your favorit
 - [Romania](romania.md)
 - [Spain](spain.md)
 - [Slovakia](slovakia.md)
-- Slovenia
+- [Slovenia](slovenia.md)
 
 
 

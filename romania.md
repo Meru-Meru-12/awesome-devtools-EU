@@ -3,6 +3,9 @@ Curated list of developer-first tools orignally made in Romania.
 
 Some tools listed here may have changed their headquarters locations.
 
+# APIs
+- [CurlShot](https://curlshot.com) : Screenshot API that turns a URL, HTML or Markdown into a PNG, JPEG, WebP, PDF or scrolling video with one HTTP request; includes an MCP server for AI agents. #cloud
+
 # Artificial Intelligence
 - [Name](link to website) : Short description #oss #selfhosted #cloud 
 

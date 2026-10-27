@@ -17,6 +17,7 @@ Some tools listed here may have changed their headquarters locations.
 - [LaVague](https://github.com/lavague-ai/LaVague): Open-source Large Action Model framework to automate web interaction. #OSS
 - [PyannoteAI](https://www.pyannote.ai/): Speaker Intelligence Platform for developers
 - [Murmure](https://www.murmure.app/): AI-Powered Speech-to-Text #oss
+- [Agent Standup](https://agent-standup.com): Watch your Claude Code, Codex and Mistral Vibe coding agents as a live team call: who is working, stuck, or waiting for you. #oss
 
 ## CMS
 

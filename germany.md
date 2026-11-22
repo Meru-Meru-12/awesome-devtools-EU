@@ -7,7 +7,7 @@ Some tools listed here may have changed their headquarters locations.
 - [TrustAnalytics](https://www.trustcomponent.com/en/products/analytics) : Web analytics without cookies by default, with funnels, revenue attribution, and Core Web Vitals. #cloud
 
 # APIs
-- [TrustComponent VAT Checker](https://www.trustcomponent.com/en/products/vat-checker) : API to look up EU VAT numbers, up to 10,000 per batch. #cloud
+- [TrustComponent VAT Checker](https://www.trustcomponent.com/en/products/vat-checker) : API to look up EU VAT numbers, up to 1,000 per batch. #cloud
 
 # Artificial Intelligence
 - [Black Forest Labs](https://www).bfl.ai: The frontier AI research lab for visual intelligence. 

@@ -26,7 +26,7 @@ Some tools listed here may have changed their headquarters locations.
 - [Name](link to website) : Short description #oss #selfhosted #cloud 
 
 # Search 
-- [Name](link to website) : Short description #oss #selfhosted #cloud 
+- [Social Fetch](https://www.socialfetch.dev) : API and MCP server for public social media data as JSON #oss #cloud
 
 # Security
 - [Name](link to website) : Short description #oss #selfhosted #cloud 
